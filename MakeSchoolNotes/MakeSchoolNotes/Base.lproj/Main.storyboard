@@ -114,6 +114,7 @@
                     </view>
                     <navigationItem key="navigationItem" title="Notes" id="yrx-0F-1LL">
                         <barButtonItem key="leftBarButtonItem" systemItem="cancel" id="KGU-pw-cP6">
+                            <color key="tintColor" red="1" green="0.17919205856085907" blue="0.089703701172331951" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <connections>
                                 <segue destination="MJO-z9-DVT" kind="unwind" identifier="cancel" unwindAction="unwindToListNotesViewController:" id="RWn-4I-bDz"/>
                             </connections>
