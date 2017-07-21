@@ -35,7 +35,7 @@
                                             <color key="textColor" white="0.43029589099543436" alpha="1" colorSpace="calibratedWhite"/>
                                             <color key="highlightedColor" red="0.20141769732303794" green="0.19058296342295156" blue="0.26537685165751168" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </label>
-                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Note Titlexxx" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="guX-NN-LHG">
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Note Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="guX-NN-LHG">
                                             <rect key="frame" x="8" y="8.5" width="375" height="21.5"/>
                                             <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="18"/>
                                             <color key="textColor" red="0.16418618197080878" green="0.62953903380329523" blue="0.86178351683937826" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
